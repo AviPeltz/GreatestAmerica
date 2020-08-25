@@ -1,3 +1,5 @@
+The Code is all in Jarrods github, Crowb-y/GreatestAmerica
+
 Welcome the greatest game ever made, commonly known as
 "Greatest America" a simulation of the promising utopia
 we live in!
